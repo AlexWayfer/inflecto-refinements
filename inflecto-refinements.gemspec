@@ -31,5 +31,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'simplecov', '~> 0.12.0'
   spec.add_development_dependency 'codeclimate-test-reporter', '~> 0.6.0'
   spec.add_development_dependency 'yard', '~> 0.9.5'
-  spec.add_development_dependency 'redcarpet', '~> 3.3.4'
+  spec.add_development_dependency 'redcarpet', '~> 3.5.0'
 end
